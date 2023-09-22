@@ -54,14 +54,14 @@ assignments = {
     {
       "title": "Assignment 4",
       "course": "Math 151",
-      "dueDate": "2023-09-22T23:59:00",
+      "dueDate": "2023-09-25T23:59:00",
       "link": "https://www.gradescope.com/courses/589847",
       "submitted": false
     },
     {
       "title": "Assignment 5",
       "course": "Math 151",
-      "dueDate": "2023-09-25T23:59:00",
+      "dueDate": "2023-09-27T23:59:00",
       "link": "https://www.gradescope.com/courses/589847",
       "submitted": false
     }
