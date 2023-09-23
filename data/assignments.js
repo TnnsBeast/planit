@@ -27,6 +27,13 @@ assignments = {
       "dueDate": "2023-09-21T23:59:00",
       "link": "https://www.gradescope.com/courses/542293/assignments/3350794/submissions/195176441",
       "submitted": true
+    },
+    {
+      "title": "Assignment 2 - Week II : Darwin",
+      "course": "CS62",
+      "dueDate": "2023-09-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/542293",
+      "submitted": false
     }
   ],
   "Math 151": [
@@ -171,36 +178,36 @@ assignments = {
       "title": "11",
       "course": "PO MATH 131.1 FA23",
       "dueDate": "2023-09-22T23:55:00",
-      "link": "https://www.gradescope.com/courses/606140",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/606140/assignments/3377925/submissions/195913349",
+      "submitted": true
     },
     {
       "title": "12",
       "course": "PO MATH 131.1 FA23",
       "dueDate": "2023-09-22T23:55:00",
-      "link": "https://www.gradescope.com/courses/606140",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/606140/assignments/3377926/submissions/195913456",
+      "submitted": true
     },
     {
       "title": "13",
       "course": "PO MATH 131.1 FA23",
       "dueDate": "2023-09-22T23:55:00",
-      "link": "https://www.gradescope.com/courses/606140",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/606140/assignments/3377928/submissions/195913539",
+      "submitted": true
     },
     {
       "title": "15",
       "course": "PO MATH 131.1 FA23",
       "dueDate": "2023-09-22T23:55:00",
-      "link": "https://www.gradescope.com/courses/606140",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/606140/assignments/3377930/submissions/195913741",
+      "submitted": true
     },
     {
       "title": "18",
       "course": "PO MATH 131.1 FA23",
       "dueDate": "2023-09-22T23:55:00",
-      "link": "https://www.gradescope.com/courses/606140",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/606140/assignments/3377931/submissions/195913648",
+      "submitted": true
     }
   ]
 };
