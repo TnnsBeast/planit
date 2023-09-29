@@ -75,7 +75,7 @@ assignments = {
     {
       "title": "Assignment 6",
       "course": "Math 151",
-      "dueDate": "2023-10-02T23:59:00",
+      "dueDate": "2023-10-04T23:59:00",
       "link": "https://www.gradescope.com/courses/589847",
       "submitted": false
     }
@@ -87,6 +87,13 @@ assignments = {
       "dueDate": "2023-09-08T10:00:00",
       "link": "https://www.gradescope.com/courses/590254/assignments/3187131/submissions/191258413",
       "submitted": true
+    },
+    {
+      "title": "Exam #1",
+      "course": "PO MATH 102.1 FA23",
+      "dueDate": "2023-10-06T10:00:00",
+      "link": "https://www.gradescope.com/courses/590254",
+      "submitted": false
     },
     {
       "title": "Homework Assignment #2",
