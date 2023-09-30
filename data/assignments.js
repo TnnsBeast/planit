@@ -227,43 +227,43 @@ assignments = {
       "title": "14",
       "course": "PO MATH 131.1 FA23",
       "dueDate": "2023-09-29T23:55:00",
-      "link": "https://www.gradescope.com/courses/606140",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/606140/assignments/3422437/submissions/198215650",
+      "submitted": true
     },
     {
       "title": "16",
       "course": "PO MATH 131.1 FA23",
       "dueDate": "2023-09-29T23:55:00",
-      "link": "https://www.gradescope.com/courses/606140",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/606140/assignments/3422453/submissions/198215685",
+      "submitted": true
     },
     {
       "title": "17",
       "course": "PO MATH 131.1 FA23",
       "dueDate": "2023-09-29T23:55:00",
-      "link": "https://www.gradescope.com/courses/606140",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/606140/assignments/3422462/submissions/198215712",
+      "submitted": true
     },
     {
       "title": "19",
       "course": "PO MATH 131.1 FA23",
       "dueDate": "2023-09-29T23:55:00",
-      "link": "https://www.gradescope.com/courses/606140",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/606140/assignments/3422469/submissions/198215745",
+      "submitted": true
     },
     {
       "title": "20",
       "course": "PO MATH 131.1 FA23",
       "dueDate": "2023-09-29T23:55:00",
-      "link": "https://www.gradescope.com/courses/606140",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/606140/assignments/3422473/submissions/198215776",
+      "submitted": true
     },
     {
       "title": "21",
       "course": "PO MATH 131.1 FA23",
       "dueDate": "2023-09-29T23:55:00",
-      "link": "https://www.gradescope.com/courses/606140",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/606140/assignments/3422500/submissions/198215812",
+      "submitted": true
     }
   ]
 };
