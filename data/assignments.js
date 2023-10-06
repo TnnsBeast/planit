@@ -39,8 +39,8 @@ assignments = {
       "title": "Assignment 3 - Calculator",
       "course": "CS62",
       "dueDate": "2023-10-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/542293",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/542293/assignments/3469647/submissions/200223853",
+      "submitted": true
     }
   ],
   "Math 151": [
