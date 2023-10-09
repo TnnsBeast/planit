@@ -92,6 +92,13 @@ assignments = {
       "dueDate": "2023-10-11T23:59:00",
       "link": "https://www.gradescope.com/courses/589847",
       "submitted": false
+    },
+    {
+      "title": "Assignment 8",
+      "course": "Math 151",
+      "dueDate": "2023-10-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/589847",
+      "submitted": false
     }
   ],
   "PO MATH 102.1 FA23": [
