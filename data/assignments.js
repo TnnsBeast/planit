@@ -46,8 +46,8 @@ assignments = {
       "title": "Assignment 4 - Week I : Compression",
       "course": "CS62",
       "dueDate": "2023-10-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/542293",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/542293/assignments/3511566/submissions/202118417",
+      "submitted": true
     }
   ],
   "Math 151": [
