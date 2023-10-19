@@ -52,7 +52,7 @@ assignments = {
     {
       "title": "Assignment 4 - Week II : Compression",
       "course": "CS62",
-      "dueDate": "2023-10-19T23:59:00",
+      "dueDate": "2023-10-20T23:59:00",
       "link": "https://www.gradescope.com/courses/542293/assignments/3537129/submissions/203827093",
       "submitted": true
     }
