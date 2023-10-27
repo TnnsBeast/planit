@@ -60,7 +60,7 @@ assignments = {
       "title": "Assignment 5: On-disk sort",
       "course": "CS62",
       "dueDate": "2023-10-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/542293/assignments/3578772/submissions/206687378",
+      "link": "https://www.gradescope.com/courses/542293/assignments/3578772/submissions/206773609",
       "submitted": true
     }
   ],
@@ -131,7 +131,7 @@ assignments = {
     {
       "title": "Assignment 9",
       "course": "Math 151",
-      "dueDate": "2023-10-30T23:59:00",
+      "dueDate": "2023-11-01T23:59:00",
       "link": "https://www.gradescope.com/courses/589847",
       "submitted": false
     }
