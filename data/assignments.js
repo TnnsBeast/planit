@@ -62,6 +62,13 @@ assignments = {
       "dueDate": "2023-10-26T23:59:00",
       "link": "https://www.gradescope.com/courses/542293/assignments/3578772/submissions/206773609",
       "submitted": true
+    },
+    {
+      "title": "Assignment 6 - Autocomplete",
+      "course": "CS62",
+      "dueDate": "2023-11-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/542293",
+      "submitted": false
     }
   ],
   "Math 151": [
