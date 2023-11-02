@@ -139,8 +139,8 @@ assignments = {
       "title": "Assignment 9",
       "course": "Math 151",
       "dueDate": "2023-11-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/589847",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589847/assignments/3585199/submissions/208573692",
+      "submitted": true
     },
     {
       "title": "Assignment 10",
