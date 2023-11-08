@@ -69,6 +69,13 @@ assignments = {
       "dueDate": "2023-11-02T23:59:00",
       "link": "https://www.gradescope.com/courses/542293/assignments/3593218/submissions/208622756",
       "submitted": true
+    },
+    {
+      "title": "Assignment 7 - Hex-a-pawn",
+      "course": "CS62",
+      "dueDate": "2023-11-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/542293",
+      "submitted": false
     }
   ],
   "Math 151": [
