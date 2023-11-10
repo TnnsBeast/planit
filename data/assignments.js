@@ -234,6 +234,13 @@ assignments = {
       "dueDate": "2023-11-03T10:00:00",
       "link": "https://www.gradescope.com/courses/590254",
       "submitted": false
+    },
+    {
+      "title": "Homework Assignment #9",
+      "course": "PO MATH 102.1 FA23",
+      "dueDate": "2023-11-17T10:00:00",
+      "link": "https://www.gradescope.com/courses/590254",
+      "submitted": false
     }
   ],
   "PO MATH 131.1 FA23": [
