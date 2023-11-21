@@ -76,6 +76,13 @@ assignments = {
       "dueDate": "2023-11-09T23:59:00",
       "link": "https://www.gradescope.com/courses/542293/assignments/3656150/submissions/211105509",
       "submitted": true
+    },
+    {
+      "title": "Assignment 8 - Text Generator",
+      "course": "CS62",
+      "dueDate": "2023-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/542293",
+      "submitted": false
     }
   ],
   "Math 151": [
@@ -167,8 +174,8 @@ assignments = {
       "title": "Assignment 12",
       "course": "Math 151",
       "dueDate": "2023-11-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/589847",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589847/assignments/3666548/submissions/214545152",
+      "submitted": true
     },
     {
       "title": "Assignment 13",
