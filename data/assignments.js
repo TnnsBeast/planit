@@ -80,7 +80,7 @@ assignments = {
     {
       "title": "Assignment 8 - Text Generator",
       "course": "CS62",
-      "dueDate": "2023-12-06T23:59:00",
+      "dueDate": "2023-12-04T23:59:00",
       "link": "https://www.gradescope.com/courses/542293",
       "submitted": false
     }
