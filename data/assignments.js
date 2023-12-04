@@ -81,8 +81,8 @@ assignments = {
       "title": "Assignment 8 - Text Generator",
       "course": "CS62",
       "dueDate": "2023-12-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/542293",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/542293/assignments/3710052/submissions/217345092",
+      "submitted": true
     }
   ],
   "Math 151": [
@@ -188,8 +188,8 @@ assignments = {
       "title": "Exam 2",
       "course": "Math 151",
       "dueDate": "2023-12-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/589847",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589847/assignments/3741053/submissions/217347363",
+      "submitted": true
     }
   ],
   "PO MATH 102.1 FA23": [
