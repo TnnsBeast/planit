@@ -701,8 +701,8 @@ assignments = {
       "title": "72",
       "course": "PO MATH 131.1 FA23",
       "dueDate": "2023-12-08T23:55:00",
-      "link": "https://www.gradescope.com/courses/606140",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/606140/assignments/3776043/submissions/218911065",
+      "submitted": true
     },
     {
       "title": "73",
