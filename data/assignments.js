@@ -195,8 +195,8 @@ assignments = {
       "title": "Final Exam",
       "course": "Math 151",
       "dueDate": "2023-12-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/589847",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589847/assignments/3770610/submissions/220164462",
+      "submitted": true
     }
   ],
   "PO MATH 131.1 FA23": [
