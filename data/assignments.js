@@ -6,6 +6,13 @@ assignments = {
       "dueDate": "2024-01-24T20:00:00",
       "link": "https://www.gradescope.com/courses/686490",
       "submitted": false
+    },
+    {
+      "title": "Experiment 0: Introduction to Excel spreadsheets",
+      "course": "CHEM29_S24",
+      "dueDate": "2024-01-26T09:01:00",
+      "link": "https://www.gradescope.com/courses/686490/assignments/3943830/submissions/new",
+      "submitted": false
     }
   ],
   "CSCI101": [
