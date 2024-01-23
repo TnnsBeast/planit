@@ -20,8 +20,8 @@ assignments = {
       "title": "A0 - clab",
       "course": "CS 105",
       "dueDate": "2024-01-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/708537",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708537/assignments/3961638/submissions/224025042",
+      "submitted": true
     }
   ],
   "CS140": [
