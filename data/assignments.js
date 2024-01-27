@@ -57,8 +57,8 @@ assignments = {
       "title": "Group 0",
       "course": "CS140",
       "dueDate": "2024-01-26T22:00:00",
-      "link": "https://www.gradescope.com/courses/716852",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/716852/assignments/4004546/submissions/225121701",
+      "submitted": true
     },
     {
       "title": "Assignment 1",
