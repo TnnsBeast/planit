@@ -66,6 +66,20 @@ assignments = {
       "dueDate": "2024-01-28T22:00:00",
       "link": "https://www.gradescope.com/courses/716852/assignments/4009140/submissions/225428316",
       "submitted": true
+    },
+    {
+      "title": "Group 2",
+      "course": "CS140",
+      "dueDate": "2024-02-02T22:00:00",
+      "link": "https://www.gradescope.com/courses/716852",
+      "submitted": false
+    },
+    {
+      "title": "Assignment 2",
+      "course": "CS140",
+      "dueDate": "2024-02-04T22:00:00",
+      "link": "https://www.gradescope.com/courses/716852",
+      "submitted": false
     }
   ],
   "CSCI101": [
