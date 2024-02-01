@@ -43,6 +43,13 @@ assignments = {
       "dueDate": "2024-01-30T23:59:00",
       "link": "https://www.gradescope.com/courses/708537/assignments/3977593/submissions/224507676",
       "submitted": true
+    },
+    {
+      "title": "A2 - datalab",
+      "course": "CS 105",
+      "dueDate": "2024-02-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/708537",
+      "submitted": false
     }
   ],
   "CS140": [
