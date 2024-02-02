@@ -29,6 +29,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Experiment 2: Reactions of Copper",
+      "course": "CHEM29_S24",
+      "dueDate": "2024-02-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/686490/assignments/4015565/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "CHEM29, S24, PS3",
       "course": "CHEM29_S24",
       "dueDate": "2024-02-07T20:00:00",
