@@ -25,7 +25,7 @@ assignments = {
       "title": "Experiment 1: Glassware and Sugar Density",
       "course": "CHEM29_S24",
       "dueDate": "2024-02-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/686490/assignments/3997937/submissions/new",
+      "link": "https://www.gradescope.com/courses/686490",
       "submitted": false
     },
     {
