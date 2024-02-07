@@ -152,6 +152,13 @@ assignments = {
       "dueDate": "2024-02-04T22:00:00",
       "link": "https://www.gradescope.com/courses/702925/assignments/4021333/submissions/227492047",
       "submitted": true
+    },
+    {
+      "title": "week04-ps-written",
+      "course": "CSCI101",
+      "dueDate": "2024-02-11T22:00:00",
+      "link": "https://www.gradescope.com/courses/702925",
+      "submitted": false
     }
   ]
 };
