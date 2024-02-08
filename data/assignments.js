@@ -157,8 +157,8 @@ assignments = {
       "title": "week04-group",
       "course": "CSCI101",
       "dueDate": "2024-02-09T22:00:00",
-      "link": "https://www.gradescope.com/courses/702925",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/702925/assignments/4033546/submissions/228841132",
+      "submitted": true
     },
     {
       "title": "week04-ps-written",
