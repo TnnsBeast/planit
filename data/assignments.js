@@ -106,8 +106,8 @@ assignments = {
       "title": "Assignment 3.1",
       "course": "CS140",
       "dueDate": "2024-02-11T22:00:00",
-      "link": "https://www.gradescope.com/courses/716852",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/716852/assignments/4059010/submissions/229772277",
+      "submitted": true
     },
     {
       "title": "Group 3",
@@ -120,8 +120,8 @@ assignments = {
       "title": "Assignment 3.2",
       "course": "CS140",
       "dueDate": "2024-02-11T22:00:00",
-      "link": "https://www.gradescope.com/courses/716852",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/716852/assignments/4080975/submissions/229772746",
+      "submitted": true
     }
   ],
   "CSCI101": [
