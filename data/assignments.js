@@ -71,6 +71,13 @@ assignments = {
       "dueDate": "2024-02-06T23:59:00",
       "link": "https://www.gradescope.com/courses/708537/assignments/4028632/submissions/227467949",
       "submitted": true
+    },
+    {
+      "title": "A3 - bomblab",
+      "course": "CS 105",
+      "dueDate": "2024-02-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/708537",
+      "submitted": false
     }
   ],
   "CS140": [
