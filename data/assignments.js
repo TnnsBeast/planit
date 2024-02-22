@@ -243,6 +243,13 @@ assignments = {
       "dueDate": "2024-02-25T22:00:00",
       "link": "https://www.gradescope.com/courses/702925",
       "submitted": false
+    },
+    {
+      "title": "week06-group",
+      "course": "CSCI101",
+      "dueDate": "2024-02-23T22:00:00",
+      "link": "https://www.gradescope.com/courses/702925",
+      "submitted": false
     }
   ]
 };
