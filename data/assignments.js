@@ -85,6 +85,13 @@ assignments = {
       "dueDate": "2024-02-20T23:59:00",
       "link": "https://www.gradescope.com/courses/708537/assignments/4117590/submissions/232335777",
       "submitted": true
+    },
+    {
+      "title": "A4 - attacklab",
+      "course": "CS 105",
+      "dueDate": "2024-10-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/708537",
+      "submitted": false
     }
   ],
   "CS140": [
