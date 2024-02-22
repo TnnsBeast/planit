@@ -89,7 +89,7 @@ assignments = {
     {
       "title": "A4 - attacklab",
       "course": "CS 105",
-      "dueDate": "2024-10-10T23:59:00",
+      "dueDate": "2024-02-27T23:59:00",
       "link": "https://www.gradescope.com/courses/708537",
       "submitted": false
     }
