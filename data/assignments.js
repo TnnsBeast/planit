@@ -50,6 +50,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Experiment 4/5 Report form (and flowcharts)",
+      "course": "CHEM29_S24",
+      "dueDate": "2024-03-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/686490/assignments/4122332/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "CHEM29, S24, PS5",
       "course": "CHEM29_S24",
       "dueDate": "2024-02-28T20:00:00",
@@ -248,8 +255,8 @@ assignments = {
       "title": "week06-group",
       "course": "CSCI101",
       "dueDate": "2024-02-23T22:00:00",
-      "link": "https://www.gradescope.com/courses/702925",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/702925/assignments/4145270/submissions/233373416",
+      "submitted": true
     }
   ]
 };
