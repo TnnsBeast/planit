@@ -57,6 +57,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Formal Report # 1 (Qualitative Analysis of Cations)",
+      "course": "CHEM29_S24",
+      "dueDate": "2024-03-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/686490/assignments/4122336/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "CHEM29, S24, PS5",
       "course": "CHEM29_S24",
       "dueDate": "2024-02-28T20:00:00",
