@@ -111,8 +111,8 @@ assignments = {
       "title": "A4 - attacklab",
       "course": "CS 105",
       "dueDate": "2024-02-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/708537",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708537/assignments/4140844/submissions/233997105",
+      "submitted": true
     }
   ],
   "CS140": [
@@ -269,8 +269,8 @@ assignments = {
       "title": "week06-ps-written",
       "course": "CSCI101",
       "dueDate": "2024-02-25T22:00:00",
-      "link": "https://www.gradescope.com/courses/702925",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/702925/assignments/4063582/submissions/233996890",
+      "submitted": true
     },
     {
       "title": "week06-group",
