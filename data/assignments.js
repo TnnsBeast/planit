@@ -50,14 +50,14 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Experiment 4/5 Report form (and flowcharts)",
+      "title": "LAB: Experiment 4/5 Report form (and flowcharts)",
       "course": "CHEM29_S24",
       "dueDate": "2024-03-01T23:59:00",
       "link": "https://www.gradescope.com/courses/686490/assignments/4122332/submissions/new",
       "submitted": false
     },
     {
-      "title": "Formal Report # 1 (Qualitative Analysis of Cations)",
+      "title": "LAB: Formal Report # 1 (Qualitative Analysis of Cations)",
       "course": "CHEM29_S24",
       "dueDate": "2024-03-08T23:59:00",
       "link": "https://www.gradescope.com/courses/686490/assignments/4122336/submissions/new",
@@ -68,6 +68,13 @@ assignments = {
       "course": "CHEM29_S24",
       "dueDate": "2024-02-28T20:00:00",
       "link": "https://www.gradescope.com/courses/686490",
+      "submitted": false
+    },
+    {
+      "title": "LAB: Summary sheet for the Formal report #1 (Qualitative Analysis)",
+      "course": "CHEM29_S24",
+      "dueDate": "2024-03-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/686490/assignments/4153443/submissions/new",
       "submitted": false
     }
   ],
