@@ -269,7 +269,7 @@ assignments = {
       "title": "week06-ps-written",
       "course": "CSCI101",
       "dueDate": "2024-02-25T22:00:00",
-      "link": "https://www.gradescope.com/courses/702925/assignments/4063582/submissions/233996890",
+      "link": "https://www.gradescope.com/courses/702925/assignments/4063582/submissions/233701397",
       "submitted": true
     },
     {
