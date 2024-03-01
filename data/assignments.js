@@ -76,6 +76,13 @@ assignments = {
       "dueDate": "2024-03-02T23:59:00",
       "link": "https://www.gradescope.com/courses/686490/assignments/4153443/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "CHEM29, S24, PS6",
+      "course": "CHEM29_S24",
+      "dueDate": "2024-03-07T20:00:00",
+      "link": "https://www.gradescope.com/courses/686490",
+      "submitted": false
     }
   ],
   "CS 105": [
