@@ -74,7 +74,7 @@ assignments = {
       "title": "LAB: Summary sheet for the Formal report #1 (Qualitative Analysis)",
       "course": "CHEM29_S24",
       "dueDate": "2024-03-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/686490/assignments/4153443/submissions/new",
+      "link": "https://www.gradescope.com/courses/686490",
       "submitted": false
     },
     {
