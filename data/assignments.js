@@ -225,8 +225,8 @@ assignments = {
       "title": "Assignment 6",
       "course": "CS140",
       "dueDate": "2024-03-08T17:00:00",
-      "link": "https://www.gradescope.com/courses/716852",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/716852/assignments/4169501/submissions/236245971",
+      "submitted": true
     },
     {
       "title": "Group 6",
@@ -325,8 +325,8 @@ assignments = {
       "title": "week07-ps-written",
       "course": "CSCI101",
       "dueDate": "2024-03-03T22:00:00",
-      "link": "https://www.gradescope.com/courses/702925",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/702925/assignments/4159068/submissions/236244859",
+      "submitted": true
     }
   ]
 };
