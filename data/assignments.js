@@ -53,7 +53,7 @@ assignments = {
       "title": "LAB: Experiment 4/5 Report form (and flowcharts)",
       "course": "CHEM29_S24",
       "dueDate": "2024-03-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/686490/assignments/4122332/submissions/new",
+      "link": "https://www.gradescope.com/courses/686490",
       "submitted": false
     },
     {
