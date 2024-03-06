@@ -234,6 +234,13 @@ assignments = {
       "dueDate": "2024-03-01T22:00:00",
       "link": "https://www.gradescope.com/courses/716852/assignments/4172250/submissions/235744498",
       "submitted": true
+    },
+    {
+      "title": "Midterm corrections",
+      "course": "CS140",
+      "dueDate": "2024-03-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/716852/assignments/4199807/submissions/236895537",
+      "submitted": true
     }
   ],
   "CSCI101": [
