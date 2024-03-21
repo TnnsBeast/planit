@@ -141,6 +141,13 @@ assignments = {
       "dueDate": "2024-03-19T23:59:00",
       "link": "https://www.gradescope.com/courses/708537/assignments/4166419/submissions/239734481",
       "submitted": true
+    },
+    {
+      "title": "A6 - dmlab",
+      "course": "CS 105",
+      "dueDate": "2024-03-26T23:59:00",
+      "link": "https://www.gradescope.com/courses/708537",
+      "submitted": false
     }
   ],
   "CS140": [
