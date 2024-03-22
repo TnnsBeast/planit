@@ -274,8 +274,8 @@ assignments = {
       "title": "Group 7",
       "course": "CS140",
       "dueDate": "2024-03-22T22:00:00",
-      "link": "https://www.gradescope.com/courses/716852",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/716852/assignments/4245965/submissions/241089414",
+      "submitted": true
     }
   ],
   "CSCI101": [
