@@ -95,7 +95,7 @@ assignments = {
       "title": "Experiment 7: Ksp of KHP",
       "course": "CHEM29_S24",
       "dueDate": "2024-03-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/686490/assignments/4208292/submissions/new",
+      "link": "https://www.gradescope.com/courses/686490",
       "submitted": false
     },
     {
