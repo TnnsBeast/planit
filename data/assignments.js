@@ -395,8 +395,8 @@ assignments = {
       "title": "week12-ps-coding",
       "course": "CSCI101",
       "dueDate": "2024-04-07T22:00:00",
-      "link": "https://www.gradescope.com/courses/702925",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/702925/assignments/4269324/submissions/242029127",
+      "submitted": true
     }
   ]
 };
