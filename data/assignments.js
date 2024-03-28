@@ -155,6 +155,13 @@ assignments = {
       "dueDate": "2024-03-26T23:59:00",
       "link": "https://www.gradescope.com/courses/708537/assignments/4257247/submissions/241452540",
       "submitted": true
+    },
+    {
+      "title": "A7 - vmlab",
+      "course": "CS 105",
+      "dueDate": "2024-04-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/708537",
+      "submitted": false
     }
   ],
   "CS140": [
