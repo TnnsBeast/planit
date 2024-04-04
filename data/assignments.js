@@ -104,6 +104,13 @@ assignments = {
       "dueDate": "2024-03-29T23:59:00",
       "link": "https://www.gradescope.com/courses/686490",
       "submitted": false
+    },
+    {
+      "title": "Experiment 9: Chemical Equilibria",
+      "course": "CHEM29_S24",
+      "dueDate": "2024-04-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/686490/assignments/4316906/submissions/new",
+      "submitted": false
     }
   ],
   "CS 105": [
