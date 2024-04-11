@@ -472,8 +472,8 @@ assignments = {
       "title": "week13-group",
       "course": "CSCI101",
       "dueDate": "2024-04-12T22:00:00",
-      "link": "https://www.gradescope.com/courses/702925",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/702925/assignments/4330876/submissions/245883311",
+      "submitted": true
     },
     {
       "title": "week13-ps-written",
