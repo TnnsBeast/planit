@@ -176,6 +176,13 @@ assignments = {
       "dueDate": "2024-04-09T23:59:00",
       "link": "https://www.gradescope.com/courses/708537/assignments/4286426/submissions/242430634",
       "submitted": true
+    },
+    {
+      "title": "A8 - synclab",
+      "course": "CS 105",
+      "dueDate": "2024-04-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/708537/assignments/4347158/submissions/245738939",
+      "submitted": true
     }
   ],
   "CS140": [
