@@ -118,6 +118,20 @@ assignments = {
       "dueDate": "2024-04-12T23:59:00",
       "link": "https://www.gradescope.com/courses/686490",
       "submitted": false
+    },
+    {
+      "title": "Experiment 11: Buffers Solution",
+      "course": "CHEM29_S24",
+      "dueDate": "2024-04-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/686490/assignments/4370932/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Summary sheet For the SECOND Formal Report",
+      "course": "CHEM29_S24",
+      "dueDate": "2024-04-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/686490/assignments/4370938/submissions/new",
+      "submitted": false
     }
   ],
   "CS 105": [
