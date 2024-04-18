@@ -197,6 +197,13 @@ assignments = {
       "dueDate": "2024-04-16T23:59:00",
       "link": "https://www.gradescope.com/courses/708537/assignments/4347158/submissions/245738939",
       "submitted": true
+    },
+    {
+      "title": "A9 - fslab",
+      "course": "CS 105",
+      "dueDate": "2024-04-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/708537/assignments/4371790/submissions/247699697",
+      "submitted": true
     }
   ],
   "CS140": [
