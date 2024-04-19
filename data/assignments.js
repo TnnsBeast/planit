@@ -516,6 +516,20 @@ assignments = {
       "dueDate": "2024-04-14T22:00:00",
       "link": "https://www.gradescope.com/courses/702925/assignments/4330878/submissions/246662096",
       "submitted": true
+    },
+    {
+      "title": "week14-group",
+      "course": "CSCI101",
+      "dueDate": "2024-04-19T22:00:00",
+      "link": "https://www.gradescope.com/courses/702925/assignments/4381595/submissions/248091975",
+      "submitted": true
+    },
+    {
+      "title": "week14-ps-written",
+      "course": "CSCI101",
+      "dueDate": "2024-04-21T22:00:00",
+      "link": "https://www.gradescope.com/courses/702925",
+      "submitted": false
     }
   ]
 };
