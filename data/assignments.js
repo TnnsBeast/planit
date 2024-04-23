@@ -130,7 +130,7 @@ assignments = {
       "title": "Summary sheet For the SECOND Formal Report",
       "course": "CHEM29_S24",
       "dueDate": "2024-04-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/686490/assignments/4370938/submissions/new",
+      "link": "https://www.gradescope.com/courses/686490",
       "submitted": false
     },
     {
