@@ -388,6 +388,20 @@ assignments = {
       "dueDate": "2024-04-21T23:59:00",
       "link": "https://www.gradescope.com/courses/716852/assignments/4384005/submissions/248344237",
       "submitted": true
+    },
+    {
+      "title": "Group 11",
+      "course": "CS140",
+      "dueDate": "2024-04-26T22:00:00",
+      "link": "https://www.gradescope.com/courses/716852",
+      "submitted": false
+    },
+    {
+      "title": "Assignment 11",
+      "course": "CS140",
+      "dueDate": "2024-04-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/716852",
+      "submitted": false
     }
   ],
   "CSCI101": [
