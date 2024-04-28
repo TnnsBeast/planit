@@ -400,8 +400,8 @@ assignments = {
       "title": "Assignment 11",
       "course": "CS140",
       "dueDate": "2024-04-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/716852",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/716852/assignments/4413967/submissions/250690723",
+      "submitted": true
     }
   ],
   "CSCI101": [
