@@ -137,7 +137,7 @@ assignments = {
       "title": "Formal Report # 2",
       "course": "CHEM29_S24",
       "dueDate": "2024-04-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/686490/assignments/4370943/submissions/new",
+      "link": "https://www.gradescope.com/courses/686490",
       "submitted": false
     },
     {
