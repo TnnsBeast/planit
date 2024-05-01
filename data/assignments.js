@@ -144,7 +144,7 @@ assignments = {
       "title": "Experiment 13: Chemical Kinetics",
       "course": "CHEM29_S24",
       "dueDate": "2024-05-01T11:05:00",
-      "link": "https://www.gradescope.com/courses/686490/assignments/4393316/submissions/new",
+      "link": "https://www.gradescope.com/courses/686490",
       "submitted": false
     }
   ],
@@ -218,6 +218,13 @@ assignments = {
       "dueDate": "2024-04-30T23:59:00",
       "link": "https://www.gradescope.com/courses/708537/assignments/4371790/submissions/250704882",
       "submitted": true
+    },
+    {
+      "title": "A10 - netlab",
+      "course": "CS 105",
+      "dueDate": "2024-05-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/708537",
+      "submitted": false
     }
   ],
   "CS140": [
