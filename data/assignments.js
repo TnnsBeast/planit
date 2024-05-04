@@ -414,8 +414,8 @@ assignments = {
       "title": "Final exam",
       "course": "CS140",
       "dueDate": "2024-05-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/716852/assignments/4430311/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/716852/assignments/4430311/submissions/252203020",
+      "submitted": true
     }
   ],
   "CSCI101": [
