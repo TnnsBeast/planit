@@ -4,8 +4,8 @@ assignments = {
       "title": "HW 1: peoPLe",
       "course": "CS 131",
       "dueDate": "2024-09-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450677/submissions/262914614",
+      "submitted": true
     }
   ],
   "MATH113  PO.01": [
