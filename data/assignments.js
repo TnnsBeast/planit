@@ -8,6 +8,15 @@ assignments = {
       "submitted": true
     }
   ],
+  "ECON101  PO.01": [
+    {
+      "title": "Essay Assignment",
+      "course": "ECON101  PO.01",
+      "dueDate": "2024-09-15T23:59:00",
+      "link": "https://www.gradescope.com/courses/847747",
+      "submitted": false
+    }
+  ],
   "MATH113  PO.01": [
     {
       "title": "HW01",
