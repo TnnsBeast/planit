@@ -6,20 +6,6 @@ assignments = {
       "dueDate": "2024-09-03T23:59:00",
       "link": "https://www.gradescope.com/courses/777935/assignments/4450677/submissions/262914614",
       "submitted": true
-    },
-    {
-      "title": "Module 2.1 Completion",
-      "course": "CS 131",
-      "dueDate": "2024-09-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/4450680/submissions/new",
-      "submitted": false
-    },
-    {
-      "title": "Module 2.2 Completion",
-      "course": "CS 131",
-      "dueDate": "2024-09-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/4450681/submissions/new",
-      "submitted": false
     }
   ],
   "ECON101  PO.01": [
