@@ -1,11 +1,32 @@
 assignments = {
   "CS 131": [
     {
+      "title": "Lab: ghci",
+      "course": "CS 131",
+      "dueDate": "2024-09-03T11:00:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450662/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Module 2 Reflection",
+      "course": "CS 131",
+      "dueDate": "2024-09-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450674/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "HW 1: peoPLe",
       "course": "CS 131",
       "dueDate": "2024-09-03T23:59:00",
       "link": "https://www.gradescope.com/courses/777935/assignments/4450677/submissions/262914614",
       "submitted": true
+    },
+    {
+      "title": "HW 2: FUNctional programming",
+      "course": "CS 131",
+      "dueDate": "2024-09-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
     }
   ],
   "ECON101  PO.01": [
