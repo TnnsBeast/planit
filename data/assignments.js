@@ -4,8 +4,8 @@ assignments = {
       "title": "Lab: ghci",
       "course": "CS 131",
       "dueDate": "2024-09-03T11:00:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/4450662/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450662/submissions/263994588",
+      "submitted": true
     },
     {
       "title": "Module 2 Reflection",
