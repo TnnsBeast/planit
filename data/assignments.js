@@ -3,7 +3,7 @@ assignments = {
     {
       "title": "Lab: ghci",
       "course": "CS 131",
-      "dueDate": "2024-09-03T11:00:00",
+      "dueDate": "2024-09-03T14:30:00",
       "link": "https://www.gradescope.com/courses/777935/assignments/4450662/submissions/263994588",
       "submitted": true
     },
