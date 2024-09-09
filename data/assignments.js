@@ -29,6 +29,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "HW 3 Reflection",
+      "course": "CS 131",
+      "dueDate": "2024-09-15T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450730/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "HW 3: Lists, Datatypes, and a Stack Machine",
       "course": "CS 131",
       "dueDate": "2024-09-15T23:59:00",
