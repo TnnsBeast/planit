@@ -29,6 +29,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Module 3 Lab: Lists / Data Types",
+      "course": "CS 131",
+      "dueDate": "2024-09-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450723/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "HW 3: Lists, Datatypes, and a Stack Machine",
       "course": "CS 131",
       "dueDate": "2024-09-15T23:59:00",
