@@ -29,6 +29,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Quiz 1",
+      "course": "CS 131",
+      "dueDate": "2024-09-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450691/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Module 3 Lab: Lists / Data Types",
       "course": "CS 131",
       "dueDate": "2024-09-10T23:59:00",
