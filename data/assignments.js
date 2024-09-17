@@ -8,6 +8,20 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "HW 4: Little Languages",
+      "course": "CS 131",
+      "dueDate": "2024-09-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
+      "title": "HW 4: Your favorite image",
+      "course": "CS 131",
+      "dueDate": "2024-09-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450673/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Module 2 Reflection",
       "course": "CS 131",
       "dueDate": "2024-09-09T23:59:00",
@@ -43,9 +57,16 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Module 4 Lab: Implementing a Boolean language",
+      "course": "CS 131",
+      "dueDate": "2024-09-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450727/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "HW 3: Lists, Datatypes, and a Stack Machine",
       "course": "CS 131",
-      "dueDate": "2024-09-15T23:59:00",
+      "dueDate": "2024-09-16T23:59:00",
       "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
