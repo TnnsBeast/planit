@@ -74,8 +74,8 @@ assignments = {
       "title": "Module 3 Reflection",
       "course": "CS 131",
       "dueDate": "2024-09-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/4927564/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/777935/assignments/4927564/submissions/268306445",
+      "submitted": true
     }
   ],
   "ECON101  PO.01": [
