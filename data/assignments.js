@@ -108,7 +108,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "R Lab 1 - PO1",
+      "title": "R lab 1",
       "course": "ECON101  PO.01",
       "dueDate": "2024-10-06T23:59:00",
       "link": "https://www.gradescope.com/courses/847747",
