@@ -43,6 +43,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Module 5.2 Pic & PS Lab",
+      "course": "CS 131",
+      "dueDate": "2024-09-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
       "title": "Quiz 1",
       "course": "CS 131",
       "dueDate": "2024-09-19T23:59:00",
@@ -67,6 +74,13 @@ assignments = {
       "title": "HW 3: Lists, Datatypes, and a Stack Machine",
       "course": "CS 131",
       "dueDate": "2024-09-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
+      "title": "HW 5: pic2ps Part 1",
+      "course": "CS 131",
+      "dueDate": "2024-09-30T23:59:00",
       "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
