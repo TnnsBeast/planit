@@ -71,13 +71,6 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "HW 5: pic2ps Part 1",
-      "course": "CS 131",
-      "dueDate": "2024-09-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935",
-      "submitted": false
-    },
-    {
       "title": "Module 3 Reflection",
       "course": "CS 131",
       "dueDate": "2024-09-16T23:59:00",
