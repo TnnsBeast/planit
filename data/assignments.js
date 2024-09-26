@@ -43,7 +43,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Module 5.2 Pic & PS Lab",
+      "title": "Module 5 Lab: pic and PS",
       "course": "CS 131",
       "dueDate": "2024-09-24T23:59:00",
       "link": "https://www.gradescope.com/courses/777935/assignments/4450688/submissions/271093428",
