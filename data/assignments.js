@@ -8,6 +8,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Quiz 1 Retake",
+      "course": "CS 131",
+      "dueDate": "2024-12-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450669/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "HW 4: Little Languages",
       "course": "CS 131",
       "dueDate": "2024-09-23T23:59:00",
