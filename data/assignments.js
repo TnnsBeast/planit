@@ -15,7 +15,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "HW 4: Little Languages",
+      "title": "HW 4: Little Languages (Random Art and Regular Expressions)",
       "course": "CS 131",
       "dueDate": "2024-09-23T23:59:00",
       "link": "https://www.gradescope.com/courses/777935",
