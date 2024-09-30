@@ -85,6 +85,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "HW 6: pic2ps Part 2",
+      "course": "CS 131",
+      "dueDate": "2024-10-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
       "title": "HW 5: pic2ps Part 1",
       "course": "CS 131",
       "dueDate": "2024-09-30T23:59:00",
@@ -109,8 +116,8 @@ assignments = {
       "title": "Module 5 Reflection",
       "course": "CS 131",
       "dueDate": "2024-09-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/5054453/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/777935/assignments/5054453/submissions/272841988",
+      "submitted": true
     }
   ],
   "ECON101  PO.01": [
