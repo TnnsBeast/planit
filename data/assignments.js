@@ -74,7 +74,7 @@ assignments = {
       "title": "Module 4 Lab: Implementing a Boolean language",
       "course": "CS 131",
       "dueDate": "2024-09-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450727/submissions/new",
       "submitted": false
     },
     {
