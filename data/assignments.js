@@ -185,6 +185,13 @@ assignments = {
       "dueDate": "2024-10-09T23:59:00",
       "link": "https://www.gradescope.com/courses/814802",
       "submitted": false
+    },
+    {
+      "title": "HW07",
+      "course": "MATH113  PO.01",
+      "dueDate": "2024-10-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/814802",
+      "submitted": false
     }
   ]
 };
