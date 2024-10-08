@@ -118,6 +118,13 @@ assignments = {
       "dueDate": "2024-09-30T23:59:00",
       "link": "https://www.gradescope.com/courses/777935/assignments/5054453/submissions/272841988",
       "submitted": true
+    },
+    {
+      "title": "Module 6 Reflection",
+      "course": "CS 131",
+      "dueDate": "2024-10-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5120314/submissions/new",
+      "submitted": false
     }
   ],
   "ECON101  PO.01": [
