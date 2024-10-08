@@ -132,6 +132,20 @@ assignments = {
       "dueDate": "2024-10-08T23:59:00",
       "link": "https://www.gradescope.com/courses/777935/assignments/5120494/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "HW 7: pic2ps Part 3",
+      "course": "CS 131",
+      "dueDate": "2024-10-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
+      "title": "HW 7: Your pic Program and Picture",
+      "course": "CS 131",
+      "dueDate": "2024-10-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5123594/submissions/new",
+      "submitted": false
     }
   ],
   "ECON101  PO.01": [
