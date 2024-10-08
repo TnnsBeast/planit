@@ -125,6 +125,13 @@ assignments = {
       "dueDate": "2024-10-11T23:59:00",
       "link": "https://www.gradescope.com/courses/777935/assignments/5120314/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Module 6.4: Parsing Lab",
+      "course": "CS 131",
+      "dueDate": "2024-10-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5120494/submissions/new",
+      "submitted": false
     }
   ],
   "ECON101  PO.01": [
