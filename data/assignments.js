@@ -127,7 +127,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Module 6.4: Parsing Lab",
+      "title": "Module 6 Lab: Parsing",
       "course": "CS 131",
       "dueDate": "2024-10-08T23:59:00",
       "link": "https://www.gradescope.com/courses/777935/assignments/5120494/submissions/new",
