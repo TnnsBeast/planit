@@ -160,6 +160,13 @@ assignments = {
       "dueDate": "2024-10-24T23:59:00",
       "link": "https://www.gradescope.com/courses/777935/assignments/5137465/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Module 7.2 Monad Lab",
+      "course": "CS 131",
+      "dueDate": "2024-10-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5176721/submissions/new",
+      "submitted": false
     }
   ],
   "ECON101  PO.01": [
