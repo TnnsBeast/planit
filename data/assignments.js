@@ -169,10 +169,24 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Module 8.2 Moses  Programming Lab",
+      "title": "Module 8 Lab: Moses  Programming",
       "course": "CS 131",
       "dueDate": "2024-10-22T23:59:00",
       "link": "https://www.gradescope.com/courses/777935/assignments/5180553/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "HW 8: Moses (Typechecking)",
+      "course": "CS 131",
+      "dueDate": "2024-10-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
+      "title": "HW 8: Your Moses Programs",
+      "course": "CS 131",
+      "dueDate": "2024-10-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5185770/submissions/new",
       "submitted": false
     }
   ],
