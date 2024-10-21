@@ -151,8 +151,8 @@ assignments = {
       "title": "Module 7 Reflection",
       "course": "CS 131",
       "dueDate": "2024-10-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/5124828/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/777935/assignments/5124828/submissions/280361372",
+      "submitted": true
     },
     {
       "title": "Quiz 2",
