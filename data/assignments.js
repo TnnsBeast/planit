@@ -1,397 +1,364 @@
 assignments = {
-  "CS 194/294-196": [
+  "CS 131": [
     {
-      "title": "9/16 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-09-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/4872742/submissions/267459098",
+      "title": "Lab: ghci",
+      "course": "CS 131",
+      "dueDate": "2024-09-03T14:30:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450662/submissions/263994588",
       "submitted": true
     },
     {
-      "title": "Project Group Formation [2/3/4 Units Students]",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-09-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247",
+      "title": "Quiz 1 Retake",
+      "course": "CS 131",
+      "dueDate": "2024-12-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450669/submissions/new",
       "submitted": false
     },
     {
-      "title": "Article [1 Unit Students ONLY]",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-12-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/4915347/submissions/new",
+      "title": "HW 4: Little Languages (Random Art and Regular Expressions)",
+      "course": "CS 131",
+      "dueDate": "2024-09-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
-      "title": "9/23 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-09-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/4973021/submissions/270064307",
+      "title": "HW 4: Your favorite image",
+      "course": "CS 131",
+      "dueDate": "2024-09-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450673/submissions/269771326",
+      "submitted": true
+    },
+    {
+      "title": "Module 2 Reflection",
+      "course": "CS 131",
+      "dueDate": "2024-09-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450674/submissions/265819601",
+      "submitted": true
+    },
+    {
+      "title": "HW 1: peoPLe",
+      "course": "CS 131",
+      "dueDate": "2024-09-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450677/submissions/262914614",
+      "submitted": true
+    },
+    {
+      "title": "HW 2: FUNctional programming",
+      "course": "CS 131",
+      "dueDate": "2024-09-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450684/submissions/265090004",
+      "submitted": true
+    },
+    {
+      "title": "Module 5 Lab: pic and PS",
+      "course": "CS 131",
+      "dueDate": "2024-09-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450688/submissions/271093428",
       "submitted": true
     },
     {
       "title": "Quiz 1",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-09-23T15:10:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/4987096/submissions/268941250",
+      "course": "CS 131",
+      "dueDate": "2024-09-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450691/submissions/269141466",
+      "submitted": true
+    },
+    {
+      "title": "Module 3 Lab: Lists / Data Types",
+      "course": "CS 131",
+      "dueDate": "2024-09-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450723/submissions/265940121",
+      "submitted": true
+    },
+    {
+      "title": "Module 4 Lab: Implementing a Boolean language",
+      "course": "CS 131",
+      "dueDate": "2024-09-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4450727/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "HW 3: Lists, Datatypes, and a Stack Machine",
+      "course": "CS 131",
+      "dueDate": "2024-09-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
+      "title": "HW 6: Compiling Pic to PS (pic2ps) Part 2",
+      "course": "CS 131",
+      "dueDate": "2024-10-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
+      "title": "HW 5: pic2ps Part 1",
+      "course": "CS 131",
+      "dueDate": "2024-09-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
+      "title": "Module 3 Reflection",
+      "course": "CS 131",
+      "dueDate": "2024-09-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4927564/submissions/268306445",
+      "submitted": true
+    },
+    {
+      "title": "Module 4 Reflection",
+      "course": "CS 131",
+      "dueDate": "2024-09-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/4960805/submissions/270797725",
+      "submitted": true
+    },
+    {
+      "title": "Module 5 Reflection",
+      "course": "CS 131",
+      "dueDate": "2024-09-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5054453/submissions/272841988",
+      "submitted": true
+    },
+    {
+      "title": "Module 6 Reflection",
+      "course": "CS 131",
+      "dueDate": "2024-10-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5120314/submissions/277293931",
+      "submitted": true
+    },
+    {
+      "title": "Module 6 Lab: Parsing",
+      "course": "CS 131",
+      "dueDate": "2024-10-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5120494/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "HW 7: Compiling Pic to PS (pic2ps) Part 3",
+      "course": "CS 131",
+      "dueDate": "2024-10-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
+      "title": "HW 7: Your pic Program and Picture",
+      "course": "CS 131",
+      "dueDate": "2024-10-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5123594/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Module 7 Reflection",
+      "course": "CS 131",
+      "dueDate": "2024-10-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5124828/submissions/280361372",
       "submitted": true
     },
     {
       "title": "Quiz 2",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-09-30T15:10:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/4999860/submissions/270584048",
+      "course": "CS 131",
+      "dueDate": "2024-10-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5137465/submissions/280978108",
       "submitted": true
     },
     {
-      "title": "Project Proposal",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-09-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247",
+      "title": "Module 7 Lab: Functors and Monads",
+      "course": "CS 131",
+      "dueDate": "2024-10-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5176721/submissions/new",
       "submitted": false
     },
     {
-      "title": "9/30 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-09-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5024425/submissions/272466563",
+      "title": "Module 8 Lab: Moses",
+      "course": "CS 131",
+      "dueDate": "2024-10-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5180553/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "HW 8: Moses (Typechecking)",
+      "course": "CS 131",
+      "dueDate": "2024-10-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
+      "title": "HW 8: Your Moses Programs",
+      "course": "CS 131",
+      "dueDate": "2024-10-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5185770/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Module 9 Lab: Lambda Calculus",
+      "course": "CS 131",
+      "dueDate": "2024-10-29T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
+      "title": "Module 8 Reflection",
+      "course": "CS 131",
+      "dueDate": "2024-10-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5216540/submissions/282393306",
+      "submitted": true
+    },
+    {
+      "title": "HW 9: Lambda calculus",
+      "course": "CS 131",
+      "dueDate": "2024-11-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
+      "title": "Module 9 Reflection",
+      "course": "CS 131",
+      "dueDate": "2024-11-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5258434/submissions/284951107",
+      "submitted": true
+    },
+    {
+      "title": "Module 10.1 Completion",
+      "course": "CS 131",
+      "dueDate": "2024-11-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5259511/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "HW 10: Critiquing PLs",
+      "course": "CS 131",
+      "dueDate": "2024-11-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5259513/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Project Choice",
+      "course": "CS 131",
+      "dueDate": "2024-11-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5283254/submissions/286965177",
       "submitted": true
     },
     {
       "title": "Quiz 3",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-09-30T15:10:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5039167/submissions/272474814",
-      "submitted": true
-    },
-    {
-      "title": "10/7 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-10-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5072751/submissions/274904895",
-      "submitted": true
-    },
-    {
-      "title": "Quiz 4",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-10-07T15:10:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5097636/submissions/274903302",
-      "submitted": true
-    },
-    {
-      "title": "10/14 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-10-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5117622/submissions/277499817",
-      "submitted": true
-    },
-    {
-      "title": "Lab 01, Submission (Restaurant Analyzing Pipeline)",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-10-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247",
-      "submitted": false
-    },
-    {
-      "title": "Lab 02, Submission  (Writing Attacks)",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-10-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247",
-      "submitted": false
-    },
-    {
-      "title": "Lab 03, Submission (Writing LLM Defense)",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-10-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247",
-      "submitted": false
-    },
-    {
-      "title": "Quiz 5",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-10-14T15:10:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5132029/submissions/277498015",
-      "submitted": true
-    },
-    {
-      "title": "10/21 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-10-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5160116/submissions/279996214",
-      "submitted": true
-    },
-    {
-      "title": "Quiz 6",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-10-21T15:10:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5183961/submissions/279894160",
-      "submitted": true
-    },
-    {
-      "title": "10/28 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-10-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5197544/submissions/282614521",
-      "submitted": true
-    },
-    {
-      "title": "Quiz 7",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-10-28T15:10:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5215207/submissions/282511712",
-      "submitted": true
-    },
-    {
-      "title": "11/4 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-11-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5233313/submissions/284947868",
-      "submitted": true
-    },
-    {
-      "title": "Quiz 8",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-11-04T15:10:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5253610/submissions/284864818",
-      "submitted": true
-    },
-    {
-      "title": "Quiz 9",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-11-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5287356/submissions/new",
-      "submitted": false
-    },
-    {
-      "title": "11/18 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2024-11-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5294999/submissions/new",
+      "course": "CS 131",
+      "dueDate": "2024-11-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5289364/submissions/new",
       "submitted": false
     }
   ],
-  "CS188": [
+  "ECON101  PO.01": [
     {
-      "title": "[Ungraded] Homework 0",
-      "course": "CS188",
-      "dueDate": "2024-09-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4779808/submissions/new",
+      "title": "Essay Assignment",
+      "course": "ECON101  PO.01",
+      "dueDate": "2024-09-15T23:59:00",
+      "link": "https://www.gradescope.com/courses/847747/assignments/4847474/submissions/267562424",
+      "submitted": true
+    },
+    {
+      "title": "R lab 1",
+      "course": "ECON101  PO.01",
+      "dueDate": "2024-10-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/847747/assignments/4970995/submissions/271112586",
+      "submitted": true
+    },
+    {
+      "title": "R lab 2",
+      "course": "ECON101  PO.01",
+      "dueDate": "2024-10-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/847747/assignments/5149563/submissions/282271640",
+      "submitted": true
+    },
+    {
+      "title": "R Lab 3",
+      "course": "ECON101  PO.01",
+      "dueDate": "2024-11-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/847747",
       "submitted": false
-    },
+    }
+  ],
+  "MATH113  PO.01": [
     {
-      "title": "Homework 1 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2024-09-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4792599/submissions/264383739",
+      "title": "HW01",
+      "course": "MATH113  PO.01",
+      "dueDate": "2024-09-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/814802/assignments/4688480/submissions/263723345",
       "submitted": true
     },
     {
-      "title": "[Ungraded] Project 0",
-      "course": "CS188",
-      "dueDate": "2024-09-04T17:00:00",
-      "link": "https://www.gradescope.com/courses/825036",
-      "submitted": false
-    },
-    {
-      "title": "Homework 1 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2024-09-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4841846/submissions/265484992",
+      "title": "HW02",
+      "course": "MATH113  PO.01",
+      "dueDate": "2024-09-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/814802/assignments/4688493/submissions/266577815",
       "submitted": true
     },
     {
-      "title": "Homework 2 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2024-09-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4860548/submissions/267740875",
+      "title": "HW03",
+      "course": "MATH113  PO.01",
+      "dueDate": "2024-09-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/814802/assignments/4688683/submissions/268987464",
       "submitted": true
     },
     {
-      "title": "Project 1",
-      "course": "CS188",
-      "dueDate": "2024-09-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4893995/submissions/266460942",
+      "title": "HW04",
+      "course": "MATH113  PO.01",
+      "dueDate": "2024-09-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/814802/assignments/4688686/submissions/271562271",
       "submitted": true
     },
     {
-      "title": "Homework 1 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2024-09-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4909916/submissions/268085200",
-      "submitted": true
-    },
-    {
-      "title": "Homework 2 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2024-09-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4928850/submissions/268113302",
-      "submitted": true
-    },
-    {
-      "title": "Homework 2 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2024-09-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4928854/submissions/269792933",
-      "submitted": true
-    },
-    {
-      "title": "Homework 3 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2024-09-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4951675/submissions/270626372",
-      "submitted": true
-    },
-    {
-      "title": "Homework 3 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2024-09-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4979105/submissions/270671273",
-      "submitted": true
-    },
-    {
-      "title": "Homework 4 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2024-10-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5003266/submissions/273390003",
-      "submitted": true
-    },
-    {
-      "title": "Homework 3 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2024-10-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5003271/submissions/272481593",
-      "submitted": true
-    },
-    {
-      "title": "Project 2",
-      "course": "CS188",
+      "title": "HW05",
+      "course": "MATH113  PO.01",
       "dueDate": "2024-10-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5005647/submissions/272663357",
+      "link": "https://www.gradescope.com/courses/814802/assignments/4688700/submissions/273967037",
       "submitted": true
     },
     {
-      "title": "Homework 4 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2024-10-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5031465/submissions/273462500",
+      "title": "HW06",
+      "course": "MATH113  PO.01",
+      "dueDate": "2024-10-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/814802/assignments/4688701/submissions/277255729",
       "submitted": true
     },
     {
-      "title": "Homework 4 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2024-10-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5031507/submissions/275049154",
+      "title": "HW07",
+      "course": "MATH113  PO.01",
+      "dueDate": "2024-10-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/814802/assignments/4688702/submissions/279432665",
       "submitted": true
     },
     {
-      "title": "Homework 5 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2024-10-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5050500/submissions/274965002",
+      "title": "HW08",
+      "course": "MATH113  PO.01",
+      "dueDate": "2024-10-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/814802/assignments/4688703/submissions/284025594",
       "submitted": true
     },
     {
-      "title": "Homework 5 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2024-10-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5074223/submissions/274976290",
+      "title": "HW09",
+      "course": "MATH113  PO.01",
+      "dueDate": "2024-10-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/814802/assignments/4688704/submissions/283944570",
       "submitted": true
     },
     {
-      "title": "Homework 6 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2024-10-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5100415/submissions/277932427",
+      "title": "HW10",
+      "course": "MATH113  PO.01",
+      "dueDate": "2024-11-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/814802/assignments/4688716/submissions/286757817",
       "submitted": true
     },
     {
-      "title": "Project 3",
-      "course": "CS188",
-      "dueDate": "2024-10-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5100557/submissions/275587386",
-      "submitted": true
-    },
-    {
-      "title": "Homework 5 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2024-10-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5124863/submissions/280898795",
-      "submitted": true
-    },
-    {
-      "title": "Homework 6 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2024-10-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5127417/submissions/280963055",
-      "submitted": true
-    },
-    {
-      "title": "Homework 7 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2024-10-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5172281/submissions/283487936",
-      "submitted": true
-    },
-    {
-      "title": "Homework 6 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2024-10-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5202995/submissions/283465917",
-      "submitted": true
-    },
-    {
-      "title": "Homework 7 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2024-10-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5204689/submissions/283587484",
-      "submitted": true
-    },
-    {
-      "title": "Homework 8 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2024-11-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5218113/submissions/286205718",
-      "submitted": true
-    },
-    {
-      "title": "Homework 8 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2024-11-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5241652/submissions/286231168",
-      "submitted": true
-    },
-    {
-      "title": "Homework 7 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2024-11-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5241654/submissions/286203615",
-      "submitted": true
-    },
-    {
-      "title": "Project 4",
-      "course": "CS188",
-      "dueDate": "2024-11-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036",
-      "submitted": false
-    },
-    {
-      "title": "Homework 8 [Self-Assessment]",
-      "course": "CS188",
+      "title": "HW11",
+      "course": "MATH113  PO.01",
       "dueDate": "2024-11-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/814802/assignments/4689281/submissions/287068845",
+      "submitted": true
     },
     {
-      "title": "Homework 9 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2024-11-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5263127/submissions/new",
-      "submitted": false
-    },
-    {
-      "title": "Homework 9 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2024-11-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036",
+      "title": "HW12",
+      "course": "MATH113  PO.01",
+      "dueDate": "2024-11-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/814802",
       "submitted": false
     }
   ]
