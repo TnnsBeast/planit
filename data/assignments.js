@@ -221,7 +221,7 @@ assignments = {
       "title": "Module 10.1 Completion",
       "course": "CS 131",
       "dueDate": "2024-11-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5259511/submissions/new",
       "submitted": false
     },
     {
