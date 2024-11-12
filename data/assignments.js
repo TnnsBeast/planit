@@ -244,6 +244,13 @@ assignments = {
       "dueDate": "2024-11-21T23:59:00",
       "link": "https://www.gradescope.com/courses/777935/assignments/5289364/submissions/288167235",
       "submitted": true
+    },
+    {
+      "title": "Quiz 2 Retake",
+      "course": "CS 131",
+      "dueDate": "2024-12-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5312632/submissions/new",
+      "submitted": false
     }
   ],
   "ECON101  PO.01": [
