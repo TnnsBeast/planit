@@ -232,7 +232,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Project Choice",
+      "title": "Deliverable: Project Choice",
       "course": "CS 131",
       "dueDate": "2024-11-12T23:59:00",
       "link": "https://www.gradescope.com/courses/777935/assignments/5283254/submissions/286965177",
