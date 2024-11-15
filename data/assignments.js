@@ -371,7 +371,7 @@ assignments = {
     {
       "title": "HW13",
       "course": "MATH113  PO.01",
-      "dueDate": "2024-11-20T23:59:00",
+      "dueDate": "2024-11-27T23:59:00",
       "link": "https://www.gradescope.com/courses/814802",
       "submitted": false
     }
