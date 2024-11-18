@@ -251,6 +251,13 @@ assignments = {
       "dueDate": "2024-12-12T23:59:00",
       "link": "https://www.gradescope.com/courses/777935/assignments/5312632/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Deliverable: Initial questions",
+      "course": "CS 131",
+      "dueDate": "2024-11-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
     }
   ],
   "ECON101  PO.01": [
