@@ -286,8 +286,8 @@ assignments = {
       "title": "R Lab 3",
       "course": "ECON101  PO.01",
       "dueDate": "2024-11-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/847747",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/847747/assignments/5240760/submissions/292142871",
+      "submitted": true
     }
   ],
   "MATH113  PO.01": [
