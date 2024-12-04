@@ -258,6 +258,48 @@ assignments = {
       "dueDate": "2024-11-18T23:59:00",
       "link": "https://www.gradescope.com/courses/777935/assignments/5343849/submissions/290531092",
       "submitted": true
+    },
+    {
+      "title": "Quiz 3 Retake",
+      "course": "CS 131",
+      "dueDate": "2024-12-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5411249/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Project [Critiquing PLs] -- Artifacts",
+      "course": "CS 131",
+      "dueDate": "2024-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
+      "title": "Project [Lambda Expressions] -- Artifacts",
+      "course": "CS 131",
+      "dueDate": "2024-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
+      "title": "Project [Raskell] -- Artifacts",
+      "course": "CS 131",
+      "dueDate": "2024-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
+      "title": "Project [Turing Machines] -- Artifacts",
+      "course": "CS 131",
+      "dueDate": "2024-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
+    },
+    {
+      "title": "Project [Program Analysis] -- Artifacts",
+      "course": "CS 131",
+      "dueDate": "2024-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
     }
   ],
   "ECON101  PO.01": [
