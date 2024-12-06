@@ -298,8 +298,8 @@ assignments = {
       "title": "Project [Program Analysis] -- Artifacts",
       "course": "CS 131",
       "dueDate": "2024-12-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/777935/assignments/5411326/submissions/294978167",
+      "submitted": true
     }
   ],
   "ECON101  PO.01": [
