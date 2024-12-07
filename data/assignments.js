@@ -74,7 +74,7 @@ assignments = {
       "title": "Module 4 Lab: Implementing a Boolean language",
       "course": "CS 131",
       "dueDate": "2024-09-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/4450727/submissions/new",
+      "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
@@ -144,7 +144,7 @@ assignments = {
       "title": "HW 7: Your pic Program and Picture",
       "course": "CS 131",
       "dueDate": "2024-10-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/5123594/submissions/new",
+      "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
@@ -165,14 +165,14 @@ assignments = {
       "title": "Module 7 Lab: Functors and Monads",
       "course": "CS 131",
       "dueDate": "2024-10-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/5176721/submissions/new",
+      "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
       "title": "Module 8 Lab: Moses",
       "course": "CS 131",
       "dueDate": "2024-10-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/5180553/submissions/new",
+      "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
@@ -186,7 +186,7 @@ assignments = {
       "title": "HW 8: Your Moses Programs",
       "course": "CS 131",
       "dueDate": "2024-10-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/5185770/submissions/new",
+      "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
