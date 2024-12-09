@@ -300,6 +300,41 @@ assignments = {
       "dueDate": "2024-12-06T23:59:00",
       "link": "https://www.gradescope.com/courses/777935/assignments/5411326/submissions/294978167",
       "submitted": true
+    },
+    {
+      "title": "Project [Critiquing PLs] -- Reflection",
+      "course": "CS 131",
+      "dueDate": "2024-12-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5429788/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Project [Lambda Expressions] -- Reflection",
+      "course": "CS 131",
+      "dueDate": "2024-12-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5429789/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Project [Raskell] -- Reflection",
+      "course": "CS 131",
+      "dueDate": "2024-12-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5429790/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Project [Turing Machines] -- Reflection",
+      "course": "CS 131",
+      "dueDate": "2024-12-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935/assignments/5429792/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Project [Program Analysis] -- Reflection",
+      "course": "CS 131",
+      "dueDate": "2024-12-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/777935",
+      "submitted": false
     }
   ],
   "ECON101  PO.01": [
