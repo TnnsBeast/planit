@@ -333,8 +333,8 @@ assignments = {
       "title": "Project [Program Analysis] -- Reflection",
       "course": "CS 131",
       "dueDate": "2024-12-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/777935/assignments/5429796/submissions/295983646",
+      "submitted": true
     }
   ],
   "ECON101  PO.01": [
