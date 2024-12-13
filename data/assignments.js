@@ -11,7 +11,7 @@ assignments = {
       "title": "Quiz 1 Retake",
       "course": "CS 131",
       "dueDate": "2024-12-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/4450669/submissions/new",
+      "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
@@ -249,7 +249,7 @@ assignments = {
       "title": "Quiz 2 Retake",
       "course": "CS 131",
       "dueDate": "2024-12-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/5312632/submissions/new",
+      "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
@@ -263,7 +263,7 @@ assignments = {
       "title": "Quiz 3 Retake",
       "course": "CS 131",
       "dueDate": "2024-12-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/5411249/submissions/new",
+      "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
@@ -305,28 +305,28 @@ assignments = {
       "title": "Project [Critiquing PLs] -- Reflection",
       "course": "CS 131",
       "dueDate": "2024-12-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/5429788/submissions/new",
+      "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
       "title": "Project [Lambda Expressions] -- Reflection",
       "course": "CS 131",
       "dueDate": "2024-12-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/5429789/submissions/new",
+      "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
       "title": "Project [Raskell] -- Reflection",
       "course": "CS 131",
       "dueDate": "2024-12-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/5429790/submissions/new",
+      "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
       "title": "Project [Turing Machines] -- Reflection",
       "course": "CS 131",
       "dueDate": "2024-12-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/777935/assignments/5429792/submissions/new",
+      "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
