@@ -302,35 +302,35 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Project [Critiquing PLs] -- Reflection",
+      "title": "Critiquing PLs reflection",
       "course": "CS 131",
       "dueDate": "2024-12-12T23:59:00",
       "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
-      "title": "Project [Lambda Expressions] -- Reflection",
+      "title": "Lambda Expressions Reflection",
       "course": "CS 131",
       "dueDate": "2024-12-12T23:59:00",
       "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
-      "title": "Project [Raskell] -- Reflection",
+      "title": "Raskell Reflection",
       "course": "CS 131",
       "dueDate": "2024-12-12T23:59:00",
       "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
-      "title": "Project [Turing Machines] -- Reflection",
+      "title": "Turing Machine Reflection",
       "course": "CS 131",
       "dueDate": "2024-12-12T23:59:00",
       "link": "https://www.gradescope.com/courses/777935",
       "submitted": false
     },
     {
-      "title": "Project [Program Analysis] -- Reflection",
+      "title": "Program Analysis Reflection",
       "course": "CS 131",
       "dueDate": "2024-12-12T23:59:00",
       "link": "https://www.gradescope.com/courses/777935/assignments/5429796/submissions/295983646",
