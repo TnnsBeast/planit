@@ -1,4 +1,5 @@
 assignments = {
+  "CS 181W": [],
   "ENGR 154": [
     {
       "title": "PS-Ch2",
