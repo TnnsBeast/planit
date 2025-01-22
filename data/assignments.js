@@ -1,5 +1,13 @@
 assignments = {
-  "CS 181W": [],
+  "CS 181W": [
+    {
+      "title": "A1 - IRB Training",
+      "course": "CS 181W",
+      "dueDate": "2025-01-29T23:59:00",
+      "link": "https://www.gradescope.com/courses/957385",
+      "submitted": false
+    }
+  ],
   "ENGR 154": [
     {
       "title": "PS-Ch2",
