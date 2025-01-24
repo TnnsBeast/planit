@@ -8,6 +8,7 @@ assignments = {
       "submitted": true
     }
   ],
+  "CS 188 and 190": [],
   "ENGR 154": [
     {
       "title": "PS-Ch2",
