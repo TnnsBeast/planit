@@ -4,8 +4,8 @@ assignments = {
       "title": "A1 - IRB Training",
       "course": "CS 181W",
       "dueDate": "2025-01-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/957385",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/957385/assignments/5618774/submissions/301770538",
+      "submitted": true
     }
   ],
   "ENGR 154": [
