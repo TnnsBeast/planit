@@ -8,7 +8,15 @@ assignments = {
       "submitted": true
     }
   ],
-  "CS 188 and 190": [],
+  "CS 188 and 190": [
+    {
+      "title": "Fri Jan 24: SURP and Department Updates",
+      "course": "CS 188 and 190",
+      "dueDate": "2025-01-31T23:00:00",
+      "link": "https://www.gradescope.com/courses/966545/assignments/5665081/submissions/new",
+      "submitted": false
+    }
+  ],
   "ENGR 154": [
     {
       "title": "PS-Ch2",
