@@ -8,10 +8,10 @@ assignments = {
       "submitted": true
     }
   ],
-  "CS 188 and 190": [
+  "CS Colloqiuium": [
     {
       "title": "Fri Jan 24: SURP and Department Updates",
-      "course": "CS 188 and 190",
+      "course": "CS Colloqiuium",
       "dueDate": "2025-01-31T23:00:00",
       "link": "https://www.gradescope.com/courses/966545/assignments/5665081/submissions/new",
       "submitted": false
