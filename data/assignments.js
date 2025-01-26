@@ -25,5 +25,14 @@ assignments = {
       "link": "https://www.gradescope.com/courses/953449/assignments/5601826/submissions/new",
       "submitted": false
     }
+  ],
+  "MATH171  PO.01": [
+    {
+      "title": "Homework 01",
+      "course": "MATH171  PO.01",
+      "dueDate": "2025-01-31T12:00:00",
+      "link": "https://www.gradescope.com/courses/967914",
+      "submitted": false
+    }
   ]
 };
