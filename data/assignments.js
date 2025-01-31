@@ -29,6 +29,13 @@ assignments = {
       "dueDate": "2025-01-31T23:00:00",
       "link": "https://www.gradescope.com/courses/966545/assignments/5665081/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Fri Feb 31: Jeff Nichols (Apple): Machine Understanding of User Interfaces",
+      "course": "CS Colloqiuium",
+      "dueDate": "2025-02-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/966545/assignments/5693174/submissions/new",
+      "submitted": false
     }
   ],
   "ENGR 154": [
