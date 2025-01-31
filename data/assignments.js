@@ -45,6 +45,27 @@ assignments = {
       "dueDate": "2025-01-30T13:15:00",
       "link": "https://www.gradescope.com/courses/953449/assignments/5685513/submissions/302983747",
       "submitted": true
+    },
+    {
+      "title": "PS-Ch3",
+      "course": "ENGR 154",
+      "dueDate": "2025-02-10T13:15:00",
+      "link": "https://www.gradescope.com/courses/953449/assignments/5704527/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "PS-Ch4",
+      "course": "ENGR 154",
+      "dueDate": "2025-02-17T13:15:00",
+      "link": "https://www.gradescope.com/courses/953449/assignments/5704528/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Lab 1",
+      "course": "ENGR 154",
+      "dueDate": "2025-02-06T13:15:00",
+      "link": "https://www.gradescope.com/courses/953449/assignments/5704533/submissions/new",
+      "submitted": false
     }
   ],
   "MATH171  PO.01": [
