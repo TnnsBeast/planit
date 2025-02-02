@@ -43,8 +43,8 @@ assignments = {
       "title": "PS-Ch2",
       "course": "ENGR 154",
       "dueDate": "2025-02-03T13:15:00",
-      "link": "https://www.gradescope.com/courses/953449/assignments/5601826/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/953449/assignments/5601826/submissions/304352188",
+      "submitted": true
     },
     {
       "title": "Lab 0",
@@ -71,8 +71,8 @@ assignments = {
       "title": "Lab 1",
       "course": "ENGR 154",
       "dueDate": "2025-02-06T13:15:00",
-      "link": "https://www.gradescope.com/courses/953449/assignments/5704533/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/953449/assignments/5704533/submissions/304355920",
+      "submitted": true
     }
   ],
   "MATH171  PO.01": [
