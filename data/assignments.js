@@ -18,8 +18,8 @@ assignments = {
       "title": "A2 - Project Proposal",
       "course": "CS 181W",
       "dueDate": "2025-02-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/957385",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/957385/assignments/5690251/submissions/304439981",
+      "submitted": true
     }
   ],
   "CS Colloqiuium": [
