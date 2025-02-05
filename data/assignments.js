@@ -20,6 +20,20 @@ assignments = {
       "dueDate": "2025-02-05T23:59:00",
       "link": "https://www.gradescope.com/courses/957385/assignments/5690251/submissions/304724510",
       "submitted": true
+    },
+    {
+      "title": "A3 - Individual",
+      "course": "CS 181W",
+      "dueDate": "2025-02-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/957385",
+      "submitted": false
+    },
+    {
+      "title": "A3 - Bibliography",
+      "course": "CS 181W",
+      "dueDate": "2025-02-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/957385",
+      "submitted": false
     }
   ],
   "CS Colloqiuium": [
