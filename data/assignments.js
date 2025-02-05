@@ -110,6 +110,13 @@ assignments = {
       "dueDate": "2025-02-07T12:01:00",
       "link": "https://www.gradescope.com/courses/967914",
       "submitted": false
+    },
+    {
+      "title": "Homework 03",
+      "course": "MATH171  PO.01",
+      "dueDate": "2025-02-14T12:01:00",
+      "link": "https://www.gradescope.com/courses/967914",
+      "submitted": false
     }
   ],
   "PO MATH 102.1 SP25": [
