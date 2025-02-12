@@ -92,8 +92,8 @@ assignments = {
       "title": "Project 0: Simple Multiplication",
       "course": "ENGR 154",
       "dueDate": "2025-02-12T09:42:00",
-      "link": "https://www.gradescope.com/courses/953449/assignments/5736019/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/953449/assignments/5736019/submissions/307611086",
+      "submitted": true
     },
     {
       "title": "Lab 2: Verification",
