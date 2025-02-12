@@ -25,13 +25,27 @@ assignments = {
       "title": "A3 - Individual",
       "course": "CS 181W",
       "dueDate": "2025-02-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/957385",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/957385/assignments/5733062/submissions/307811994",
+      "submitted": true
     },
     {
       "title": "A3 - Bibliography",
       "course": "CS 181W",
       "dueDate": "2025-02-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/957385",
+      "submitted": false
+    },
+    {
+      "title": "A4 - Individual",
+      "course": "CS 181W",
+      "dueDate": "2025-02-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/957385",
+      "submitted": false
+    },
+    {
+      "title": "A4 - Protocols",
+      "course": "CS 181W",
+      "dueDate": "2025-02-19T23:59:00",
       "link": "https://www.gradescope.com/courses/957385",
       "submitted": false
     }
