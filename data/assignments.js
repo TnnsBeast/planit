@@ -92,8 +92,8 @@ assignments = {
       "title": "PS-Ch4",
       "course": "ENGR 154",
       "dueDate": "2025-02-17T13:15:00",
-      "link": "https://www.gradescope.com/courses/953449/assignments/5704528/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/953449/assignments/5704528/submissions/309551976",
+      "submitted": true
     },
     {
       "title": "Lab 1",
