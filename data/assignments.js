@@ -113,8 +113,8 @@ assignments = {
       "title": "Lab 2: Verification",
       "course": "ENGR 154",
       "dueDate": "2025-02-19T10:55:00",
-      "link": "https://www.gradescope.com/courses/953449/assignments/5754925/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/953449/assignments/5754925/submissions/309843571",
+      "submitted": true
     }
   ],
   "MATH171  PO.01": [
