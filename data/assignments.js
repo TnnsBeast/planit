@@ -31,8 +31,8 @@ assignments = {
     {
       "title": "A3 - Bibliography",
       "course": "CS 181W",
-      "dueDate": "2025-02-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/957385/assignments/5733068/submissions/308025490",
+      "dueDate": "2025-02-18T19:40:00",
+      "link": "https://www.gradescope.com/courses/957385/assignments/5733068/submissions/309816585",
       "submitted": true
     },
     {
