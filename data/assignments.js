@@ -78,6 +78,13 @@ assignments = {
       "dueDate": "2025-02-07T23:59:00",
       "link": "https://www.gradescope.com/courses/966545",
       "submitted": false
+    },
+    {
+      "title": "Fri Feb 21: Leo Porter (UCSD) (At HMC): Learning with Peers and LLMs",
+      "course": "CS Colloqiuium",
+      "dueDate": "2025-02-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/966545/assignments/5804126/submissions/new",
+      "submitted": false
     }
   ],
   "ENGR 154": [
