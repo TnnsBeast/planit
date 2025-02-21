@@ -150,8 +150,8 @@ assignments = {
       "title": "Homework 03",
       "course": "MATH171  PO.01",
       "dueDate": "2025-02-21T12:01:00",
-      "link": "https://www.gradescope.com/courses/967914",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/967914/assignments/5738807/submissions/310764493",
+      "submitted": true
     },
     {
       "title": "Homework 04",
@@ -189,6 +189,13 @@ assignments = {
       "dueDate": "2025-02-21T09:00:00",
       "link": "https://www.gradescope.com/courses/960119/assignments/5632678/submissions/310544638",
       "submitted": true
+    },
+    {
+      "title": "Exam #1",
+      "course": "PO MATH 102.1 SP25",
+      "dueDate": "2025-02-28T09:00:00",
+      "link": "https://www.gradescope.com/courses/960119",
+      "submitted": false
     }
   ]
 };
