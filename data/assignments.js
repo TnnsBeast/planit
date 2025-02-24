@@ -162,8 +162,8 @@ assignments = {
       "title": "Lab 3-Debug",
       "course": "ENGR 154",
       "dueDate": "2025-02-26T13:15:00",
-      "link": "https://www.gradescope.com/courses/953449/assignments/5832589/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/953449/assignments/5832589/submissions/311562210",
+      "submitted": true
     }
   ],
   "MATH171  PO.01": [
