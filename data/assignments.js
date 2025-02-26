@@ -39,7 +39,7 @@ assignments = {
       "title": "A4 - Individual",
       "course": "CS 181W",
       "dueDate": "2025-02-19T23:59:00",
-      "link": "https://www.gradescope.com/courses/957385/assignments/5778658/submissions/309070543",
+      "link": "https://www.gradescope.com/courses/957385/assignments/5778658/submissions/312187760",
       "submitted": true
     },
     {
