@@ -60,7 +60,7 @@ assignments = {
       "title": "A5 - Project Protocol",
       "course": "CS 181W",
       "dueDate": "2025-02-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/957385/assignments/5818637/submissions/312633154",
+      "link": "https://www.gradescope.com/courses/957385/assignments/5818637/submissions/312647471",
       "submitted": true
     }
   ],
@@ -243,8 +243,8 @@ assignments = {
       "title": "Exam #1",
       "course": "PO MATH 102.1 SP25",
       "dueDate": "2025-02-28T09:00:00",
-      "link": "https://www.gradescope.com/courses/960119",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/960119/assignments/5632817/submissions/312639544",
+      "submitted": true
     }
   ]
 };
