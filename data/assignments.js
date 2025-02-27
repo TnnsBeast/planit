@@ -53,8 +53,8 @@ assignments = {
       "title": "A5 - Individual",
       "course": "CS 181W",
       "dueDate": "2025-02-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/957385",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/957385/assignments/5818633/submissions/312499322",
+      "submitted": true
     },
     {
       "title": "A5 - Project Protocol",
