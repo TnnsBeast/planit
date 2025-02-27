@@ -62,6 +62,20 @@ assignments = {
       "dueDate": "2025-02-26T23:59:00",
       "link": "https://www.gradescope.com/courses/957385/assignments/5818637/submissions/312647471",
       "submitted": true
+    },
+    {
+      "title": "A6 - Individual",
+      "course": "CS 181W",
+      "dueDate": "2025-03-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/957385",
+      "submitted": false
+    },
+    {
+      "title": "A6 - Related Work",
+      "course": "CS 181W",
+      "dueDate": "2025-03-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/957385",
+      "submitted": false
     }
   ],
   "CS Colloqiuium": [
