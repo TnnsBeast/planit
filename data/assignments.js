@@ -99,6 +99,13 @@ assignments = {
       "dueDate": "2025-02-28T23:59:00",
       "link": "https://www.gradescope.com/courses/966545/assignments/5804126/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Fri Feb 28: Evgenios Kornaropoulos (GMU): Encryption is Not Enough (CANCELED)",
+      "course": "CS Colloqiuium",
+      "dueDate": "2025-02-28T10:31:00",
+      "link": "https://www.gradescope.com/courses/966545",
+      "submitted": false
     }
   ],
   "ENGR 154": [
