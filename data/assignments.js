@@ -190,8 +190,8 @@ assignments = {
       "title": "Lab 4: Design",
       "course": "ENGR 154",
       "dueDate": "2025-03-05T13:15:00",
-      "link": "https://www.gradescope.com/courses/953449/assignments/5859882/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/953449/assignments/5859882/submissions/313998927",
+      "submitted": true
     }
   ],
   "MATH171  PO.01": [
