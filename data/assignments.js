@@ -192,6 +192,13 @@ assignments = {
       "dueDate": "2025-03-05T13:15:00",
       "link": "https://www.gradescope.com/courses/953449/assignments/5859882/submissions/313998927",
       "submitted": true
+    },
+    {
+      "title": "Lab 5: Synthesis",
+      "course": "ENGR 154",
+      "dueDate": "2025-03-12T13:15:00",
+      "link": "https://www.gradescope.com/courses/953449/assignments/5893297/submissions/new",
+      "submitted": false
     }
   ],
   "MATH171  PO.01": [
