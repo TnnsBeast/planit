@@ -67,8 +67,8 @@ assignments = {
       "title": "A6 - Individual",
       "course": "CS 181W",
       "dueDate": "2025-03-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/957385",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/957385/assignments/5863657/submissions/314514645",
+      "submitted": true
     },
     {
       "title": "A6 - Related Work",
