@@ -120,6 +120,13 @@ assignments = {
       "dueDate": "2025-02-28T10:31:00",
       "link": "https://www.gradescope.com/courses/966545",
       "submitted": false
+    },
+    {
+      "title": "Fri Mar 7: Matt Keeter (Oxide) (At HMC): Implicit Surfaces & Independent Research",
+      "course": "CS Colloqiuium",
+      "dueDate": "2025-03-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/966545/assignments/5895357/submissions/new",
+      "submitted": false
     }
   ],
   "ENGR 154": [
