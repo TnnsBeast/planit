@@ -197,8 +197,8 @@ assignments = {
       "title": "PS-Ch16",
       "course": "ENGR 154",
       "dueDate": "2025-03-10T13:15:00",
-      "link": "https://www.gradescope.com/courses/953449/assignments/5832568/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/953449/assignments/5832568/submissions/315553150",
+      "submitted": true
     },
     {
       "title": "Lab 3-Debug",
