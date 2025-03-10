@@ -81,8 +81,8 @@ assignments = {
       "title": "A7 - Individual",
       "course": "CS 181W",
       "dueDate": "2025-03-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/957385",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/957385/assignments/5883790/submissions/316002295",
+      "submitted": true
     },
     {
       "title": "A7 - Methodology",
