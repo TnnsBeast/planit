@@ -88,8 +88,8 @@ assignments = {
       "title": "A7 - Methodology",
       "course": "CS 181W",
       "dueDate": "2025-03-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/957385",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/957385/assignments/5883792/submissions/316276110",
+      "submitted": true
     }
   ],
   "CS Colloqiuium": [
