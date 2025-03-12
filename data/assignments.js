@@ -222,10 +222,38 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Project 0: All Multiplication",
+      "title": "Project 1: All Multiplication",
       "course": "ENGR 154",
-      "dueDate": "2025-02-12T09:42:00",
-      "link": "https://www.gradescope.com/courses/953449",
+      "dueDate": "2025-03-26T13:15:00",
+      "link": "https://www.gradescope.com/courses/953449/assignments/5928124/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Project 2: All Addition",
+      "course": "ENGR 154",
+      "dueDate": "2025-04-02T13:15:00",
+      "link": "https://www.gradescope.com/courses/953449/assignments/5928138/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Project 3: All FMA",
+      "course": "ENGR 154",
+      "dueDate": "2025-04-09T13:15:00",
+      "link": "https://www.gradescope.com/courses/953449/assignments/5928145/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Project 4: Special Cases",
+      "course": "ENGR 154",
+      "dueDate": "2025-04-16T13:15:00",
+      "link": "https://www.gradescope.com/courses/953449/assignments/5928150/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Project 5: Rounding",
+      "course": "ENGR 154",
+      "dueDate": "2025-04-23T13:15:00",
+      "link": "https://www.gradescope.com/courses/953449/assignments/5928152/submissions/new",
       "submitted": false
     }
   ],
