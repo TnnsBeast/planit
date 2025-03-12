@@ -220,6 +220,13 @@ assignments = {
       "dueDate": "2025-03-12T13:15:00",
       "link": "https://www.gradescope.com/courses/953449/assignments/5893297/submissions/316093053",
       "submitted": true
+    },
+    {
+      "title": "Project 0: All Multiplication",
+      "course": "ENGR 154",
+      "dueDate": "2025-02-12T09:42:00",
+      "link": "https://www.gradescope.com/courses/953449",
+      "submitted": false
     }
   ],
   "MATH171  PO.01": [
@@ -306,8 +313,8 @@ assignments = {
       "title": "Homework Assignment #6",
       "course": "PO MATH 102.1 SP25",
       "dueDate": "2025-03-14T09:00:00",
-      "link": "https://www.gradescope.com/courses/960119",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/960119/assignments/5632724/submissions/316591032",
+      "submitted": true
     },
     {
       "title": "Exam #1",
