@@ -340,9 +340,16 @@ assignments = {
     {
       "title": "Homework Assignment #6",
       "course": "PO MATH 102.1 SP25",
-      "dueDate": "2025-03-14T09:00:00",
+      "dueDate": "2025-03-17T23:59:00",
       "link": "https://www.gradescope.com/courses/960119/assignments/5632724/submissions/316591032",
       "submitted": true
+    },
+    {
+      "title": "Homework Assignment #7",
+      "course": "PO MATH 102.1 SP25",
+      "dueDate": "2025-03-28T09:00:00",
+      "link": "https://www.gradescope.com/courses/960119",
+      "submitted": false
     },
     {
       "title": "Exam #1",
