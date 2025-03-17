@@ -131,7 +131,7 @@ assignments = {
     {
       "title": "Fri Mar 14: Dave Bachman (Pitzer) (At HMC): Making Art with Code",
       "course": "CS Colloqiuium",
-      "dueDate": "2025-03-21T23:59:00",
+      "dueDate": "2025-03-28T23:59:00",
       "link": "https://www.gradescope.com/courses/966545/assignments/5927309/submissions/new",
       "submitted": false
     }
