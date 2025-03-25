@@ -232,8 +232,8 @@ assignments = {
       "title": "Project 1: All Multiplication",
       "course": "ENGR 154",
       "dueDate": "2025-03-26T13:15:00",
-      "link": "https://www.gradescope.com/courses/953449/assignments/5928124/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/953449/assignments/5928124/submissions/319771987",
+      "submitted": true
     },
     {
       "title": "Project 2: All Addition",
