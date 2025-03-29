@@ -304,13 +304,34 @@ assignments = {
       "title": "Homework 06",
       "course": "MATH171  PO.01",
       "dueDate": "2025-03-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/967914",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/967914/assignments/5887075/submissions/320801803",
+      "submitted": true
     },
     {
       "title": "Homework 07",
       "course": "MATH171  PO.01",
       "dueDate": "2025-04-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/967914",
+      "submitted": false
+    },
+    {
+      "title": "Homework 08",
+      "course": "MATH171  PO.01",
+      "dueDate": "2025-04-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/967914",
+      "submitted": false
+    },
+    {
+      "title": "Homework 09",
+      "course": "MATH171  PO.01",
+      "dueDate": "2025-04-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/967914",
+      "submitted": false
+    },
+    {
+      "title": "Homework 10",
+      "course": "MATH171  PO.01",
+      "dueDate": "2025-05-02T23:59:00",
       "link": "https://www.gradescope.com/courses/967914",
       "submitted": false
     }
