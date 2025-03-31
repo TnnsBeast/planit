@@ -262,6 +262,13 @@ assignments = {
       "dueDate": "2025-04-23T13:15:00",
       "link": "https://www.gradescope.com/courses/953449/assignments/5928152/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "PS-Ch9-10",
+      "course": "ENGR 154",
+      "dueDate": "2025-03-31T13:15:00",
+      "link": "https://www.gradescope.com/courses/953449/assignments/6014914/submissions/new",
+      "submitted": false
     }
   ],
   "MATH171  PO.01": [
