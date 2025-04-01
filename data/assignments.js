@@ -90,6 +90,20 @@ assignments = {
       "dueDate": "2025-03-12T23:59:00",
       "link": "https://www.gradescope.com/courses/957385/assignments/5883792/submissions/316276110",
       "submitted": true
+    },
+    {
+      "title": "A8 - Individual",
+      "course": "CS 181W",
+      "dueDate": "2025-04-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/957385",
+      "submitted": false
+    },
+    {
+      "title": "A8 - Piloting",
+      "course": "CS 181W",
+      "dueDate": "2025-04-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/957385",
+      "submitted": false
     }
   ],
   "CS Colloqiuium": [
