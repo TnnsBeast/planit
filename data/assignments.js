@@ -95,8 +95,8 @@ assignments = {
       "title": "A8 - Individual",
       "course": "CS 181W",
       "dueDate": "2025-04-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/957385",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/957385/assignments/6017963/submissions/322008953",
+      "submitted": true
     },
     {
       "title": "A8 - Piloting",
