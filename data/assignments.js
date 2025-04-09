@@ -267,8 +267,8 @@ assignments = {
       "title": "Project 3: All FMA",
       "course": "ENGR 154",
       "dueDate": "2025-04-09T13:15:00",
-      "link": "https://www.gradescope.com/courses/953449/assignments/5928145/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/953449/assignments/5928145/submissions/323776933",
+      "submitted": true
     },
     {
       "title": "Project 4: Special Cases",
