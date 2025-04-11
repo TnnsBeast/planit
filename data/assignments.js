@@ -169,6 +169,13 @@ assignments = {
       "dueDate": "2025-04-11T23:59:00",
       "link": "https://www.gradescope.com/courses/966545/assignments/6029829/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Thu Apr 10: Will Styler (UCSD): Speech technology in the era of 'AI'",
+      "course": "CS Colloqiuium",
+      "dueDate": "2025-04-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/966545/assignments/6062588/submissions/new",
+      "submitted": false
     }
   ],
   "ENGR 154": [
