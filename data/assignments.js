@@ -116,8 +116,8 @@ assignments = {
       "title": "A9 - Data Collection",
       "course": "CS 181W",
       "dueDate": "2025-04-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/957385",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/957385/assignments/6066618/submissions/324391712",
+      "submitted": true
     }
   ],
   "CS Colloqiuium": [
