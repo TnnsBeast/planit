@@ -167,7 +167,7 @@ assignments = {
       "title": "Fri Apr 4: Kathryn Leonard (Occidental) (At HMC)",
       "course": "CS Colloqiuium",
       "dueDate": "2025-04-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/966545/assignments/6029829/submissions/new",
+      "link": "https://www.gradescope.com/courses/966545",
       "submitted": false
     },
     {
